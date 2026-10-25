@@ -1,0 +1,7 @@
+# Optional: replace DEMO_KEY with a free key from https://api.data.gov/signup/
+# Copy this file to .dev.vars, then restart Joelix.
+USDA_API_KEY=DEMO_KEY
+
+# Optional second nutrition source from https://developer.edamam.com/
+EDAMAM_APP_ID=
+EDAMAM_APP_KEY=
